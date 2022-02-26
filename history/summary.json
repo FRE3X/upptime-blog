@@ -4,19 +4,19 @@
     "url": "https://blog.callot.fr/",
     "icon": "https://favicons.githubusercontent.com/blog.callot.fr",
     "slug": "blog-callot-fr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 700,
-    "timeDay": 686,
-    "timeWeek": 667,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 706,
+    "timeDay": 754,
+    "timeWeek": 691,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2022-02-26": 0
+      "2022-02-26": 19
     }
   }
 ]
