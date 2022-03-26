@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.callot.fr",
     "slug": "blog-callot-fr",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 715,
-    "timeDay": 594,
-    "timeWeek": 737,
-    "timeMonth": 729,
-    "timeYear": 715,
+    "uptimeYear": "99.98%",
+    "time": 714,
+    "timeDay": 675,
+    "timeWeek": 739,
+    "timeMonth": 724,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2022-02-26": 19
     }
