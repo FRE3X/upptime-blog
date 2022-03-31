@@ -4,7 +4,7 @@
     "url": "https://blog.callot.fr/",
     "icon": "https://favicons.githubusercontent.com/blog.callot.fr",
     "slug": "blog-callot-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 743,
     "timeYear": 724,
     "dailyMinutesDown": {
+      "2022-03-31": 0,
       "2022-02-26": 19
     }
   }
