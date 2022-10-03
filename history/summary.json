@@ -2,7 +2,7 @@
   {
     "name": "blog.callot.fr",
     "url": "https://blog.callot.fr/",
-    "icon": "https://favicons.githubusercontent.com/blog.callot.fr",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.callot.fr.ico",
     "slug": "blog-callot-fr",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 791,
-    "timeDay": 694,
-    "timeWeek": 719,
-    "timeMonth": 742,
-    "timeYear": 791,
+    "time": 792,
+    "timeDay": 936,
+    "timeWeek": 718,
+    "timeMonth": 751,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2022-03-31": 58,
       "2022-02-26": 19
