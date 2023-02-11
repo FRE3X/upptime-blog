@@ -4,7 +4,7 @@
     "url": "https://blog.callot.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.callot.fr.ico",
     "slug": "blog-callot-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "91.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 542,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2023-02-11": 0,
       "2022-11-05": 1050,
       "2022-11-04": 1440,
       "2022-11-03": 1440,
