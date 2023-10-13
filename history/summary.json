@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.callot.fr.ico",
     "slug": "blog-callot-fr",
     "status": "up",
-    "uptime": "94.57%",
+    "uptime": "94.58%",
     "uptimeDay": "87.47%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "93.24%",
-    "time": 628,
-    "timeDay": 6295,
-    "timeWeek": 2419,
+    "uptimeYear": "93.42%",
+    "time": 627,
+    "timeDay": 6270,
+    "timeWeek": 2423,
     "timeMonth": 1056,
     "timeYear": 567,
     "dailyMinutesDown": {
@@ -43,8 +43,7 @@
       "2022-10-17": 1440,
       "2022-10-16": 1440,
       "2022-10-15": 1440,
-      "2022-10-14": 1440,
-      "2022-10-13": 1440
+      "2022-10-14": 1440
     }
   }
 ]
