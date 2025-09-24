@@ -5,22 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.callot.fr.ico",
     "slug": "blog-callot-fr",
     "status": "up",
-    "uptime": "95.57%",
+    "uptime": "95.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 423,
-    "timeDay": 133,
-    "timeWeek": 200,
-    "timeMonth": 250,
-    "timeYear": 379,
+    "timeDay": 284,
+    "timeWeek": 224,
+    "timeMonth": 251,
+    "timeYear": 378,
     "dailyMinutesDown": {
       "2025-02-13": 40,
       "2025-01-25": 33,
       "2025-01-14": 22,
-      "2024-11-12": 38,
-      "2024-09-24": 16
+      "2024-11-12": 38
     }
   }
 ]
